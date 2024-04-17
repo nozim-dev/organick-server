@@ -3,8 +3,9 @@
   "version": "0.1.0",
   "description": "",
   "main": "server.js",
+
   "scripts": {
-    "start": "node server.js"
+    "start": "json-server db.json"
   },
   "dependencies": {
     "cors": "^2.8.5",
